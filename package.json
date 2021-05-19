@@ -1,0 +1,31 @@
+{
+  "name": "telegram-monitoring",
+  "version": "1.0.0",
+  "description": "This personal project will be used to monitor telegram messages to get insights",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thulasipavankumar/telegram-monitoring.git"
+  },
+  "keywords": [
+    "telegram",
+    "algo",
+    "trading",
+    "stocks"
+  ],
+  "author": "Pavan Kumar Tulasi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thulasipavankumar/telegram-monitoring/issues"
+  },
+  "homepage": "https://github.com/thulasipavankumar/telegram-monitoring#readme",
+  "dependencies": {
+    "telegraf": "^4.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^9.0.2"
+  }
+}
